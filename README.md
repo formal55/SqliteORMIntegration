@@ -7,7 +7,7 @@ sqlite3 version 3210000 :
 
 sqlite_orm :
 
-	reference : https://github.com/LuaDist/libsqlite3
+	reference : https://github.com/fnc12/sqlite_orm
 	
 
 build step :
