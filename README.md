@@ -14,6 +14,7 @@ build step :
 
 1. cd ${project}
 2. mkdir build
-3. cmake ../
-4. make
-5. make install
+3. cd build
+4. cmake ../
+5. make
+6. make install
