@@ -1,2 +1,0 @@
-# SqliteORMIntegration
-sqlite orm integration
